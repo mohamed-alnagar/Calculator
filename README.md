@@ -19,4 +19,4 @@ A simple, stylish calculator built using **HTML**, **CSS**, and **JavaScript**. 
 - **HTML5** – Markup structure
 - **CSS3** – Styling and layout (including gradients & shadows)
 - **JavaScript (Vanilla)** – Logic for input handling and calculations
-[👉  Visit the Website](https://mohamed-alnagar.github.io/Calculator/)
+[🌍   Visit the Website](https://mohamed-alnagar.github.io/Calculator/)
