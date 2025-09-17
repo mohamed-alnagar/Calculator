@@ -20,3 +20,4 @@ A simple, stylish calculator built using **HTML**, **CSS**, and **JavaScript**. 
 - **CSS3** – Styling and layout (including gradients & shadows)
 - **JavaScript (Vanilla)** – Logic for input handling and calculations
 ![image](https://github.com/user-attachments/assets/aaf6d0a0-9a91-4375-a700-ba768c485861)
+[👉 Visit the Website](https://mohamed-alnagar.github.io/Calculator/)
